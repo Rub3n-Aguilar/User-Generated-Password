@@ -1,1 +1,1 @@
-# User-Generated-Password
+This Python script serves as a customizable password generator, enabling users to create unique and randomized passwords tailored to their specific requirements. Users can specify the desired number of letters, numbers, and symbols in their passwords, resulting in a highly versatile tool for password creation. Additionally, the script incorporates randomization to shuffle the characters of the generated password, enhancing its security by introducing unpredictability and randomness.
